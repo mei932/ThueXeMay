@@ -46,6 +46,7 @@ namespace Ql_TXM
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txtnam = new System.Windows.Forms.TextBox();
+            this.btnXuatFile = new System.Windows.Forms.Button();
             this.groupBox3.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -205,12 +206,23 @@ namespace Ql_TXM
             this.txtnam.Size = new System.Drawing.Size(166, 20);
             this.txtnam.TabIndex = 6;
             // 
+            // btnXuatFile
+            // 
+            this.btnXuatFile.Location = new System.Drawing.Point(515, 420);
+            this.btnXuatFile.Name = "btnXuatFile";
+            this.btnXuatFile.Size = new System.Drawing.Size(98, 23);
+            this.btnXuatFile.TabIndex = 13;
+            this.btnXuatFile.Text = "Xuất file Excel";
+            this.btnXuatFile.UseVisualStyleBackColor = true;
+            this.btnXuatFile.Click += new System.EventHandler(this.btnXuatFile_Click);
+            // 
             // thongke
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(695, 450);
+            this.Controls.Add(this.btnXuatFile);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -250,5 +262,6 @@ namespace Ql_TXM
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtnam;
+        private System.Windows.Forms.Button btnXuatFile;
     }
 }

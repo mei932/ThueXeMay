@@ -16,3 +16,11 @@ D:\C#\Ql_TXM\Ql_TXM\obj\Debug\Ql_TXM.tblThueNhieuNgay.resources
 D:\C#\Ql_TXM\Ql_TXM\obj\Debug\Ql_TXM.tblDoanhThu.resources
 D:\C#\Ql_TXM\Ql_TXM\obj\Debug\Ql_TXM.thongke.resources
 D:\C#\Ql_TXM\Ql_TXM\obj\Debug\Ql_TXM.dangnhap.resources
+D:\C#\Ql_TXM\Ql_TXM\bin\Debug\EPPlus.Interfaces.dll
+D:\C#\Ql_TXM\Ql_TXM\bin\Debug\EPPlus.System.Drawing.dll
+D:\C#\Ql_TXM\Ql_TXM\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C#\Ql_TXM\Ql_TXM\bin\Debug\System.ComponentModel.Annotations.dll
+D:\C#\Ql_TXM\Ql_TXM\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\C#\Ql_TXM\Ql_TXM\obj\Debug\Ql_TXM.csproj.CopyComplete
+D:\C#\Ql_TXM\Ql_TXM\bin\Debug\EPPlus.Core.dll
+D:\C#\Ql_TXM\Ql_TXM\bin\Debug\EPPlus.Core.xml
